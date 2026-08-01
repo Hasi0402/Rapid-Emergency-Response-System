@@ -3,10 +3,10 @@
 A web application designed to provide quick assistance during emergencies such as accidents, medical emergencies, fires, or natural disasters. Users can send an emergency alert with a single click, sharing their live location and emergency details with nearby emergency services, hospitals, police stations, fire departments, and registered emergency contacts.
 
 ## Team
-HASIBA AISHA I
-SRI DARSHINI B
-HARINI R
-PRAVEENA B
+- HASIBA AISHA I
+- SRI DARSHINI B
+- HARINI R
+- PRAVEENA B
 
 ## Features
 
