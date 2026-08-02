@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply bg-base-950 text-base-100 font-body antialiased;
+  }
+  ::selection {
+    @apply bg-alert/30 text-base-100;
+  }
+  :focus-visible {
+    outline: 2px solid #E23B3B;
+    outline-offset: 2px;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
