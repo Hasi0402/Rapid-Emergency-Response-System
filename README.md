@@ -58,7 +58,3 @@ npm run preview
 This project is deployed with GitHub Pages:
 
 https://hasi0402.github.io/Rapid-Emergency-Response-System/
-
-## License
-
-This project is available for personal and educational use.
