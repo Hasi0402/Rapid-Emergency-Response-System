@@ -9,6 +9,14 @@ A web application designed to provide quick assistance during emergencies such a
 - Contact and service coordination for faster response
 - Clean, responsive interface built with modern web tools
 
+
+## Team
+
+- HASIBA AISHA I
+- SRI DARSHINI B
+- HARINI R
+- PRAVEENA B
+
 ## Tech Stack
 
 - React with TypeScript
@@ -52,7 +60,3 @@ npm run preview
 This project is deployed with GitHub Pages:
 
 https://hasi0402.github.io/Rapid-Emergency-Response-System/
-
-## License
-
-This project is available for personal and educational use.
